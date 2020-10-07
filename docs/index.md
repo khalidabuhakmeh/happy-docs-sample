@@ -1,4 +1,3 @@
-# Happy Docs Sample
 
 This is an example of using the [Markdown Snippets](https://github.com/SimonCropp/MarkdownSnippets) global tool to keep code samples up to date.
 
