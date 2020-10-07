@@ -1,4 +1,3 @@
-
 This is an example of using the [Markdown Snippets](https://github.com/SimonCropp/MarkdownSnippets) global tool to keep code samples up to date.
 
 ## Calculator
@@ -45,7 +44,7 @@ Console.WriteLine(result);
 
 ### Minus
 
-We can add two `minus` parameters together.
+We can subtract an `int` parameter from another.
 
 <!-- snippet: minus-example -->
 <a id='9671badb'></a>
@@ -59,7 +58,7 @@ Console.WriteLine(result);
 
 ### Multiply
 
-We can add two `multiply` parameters together.
+We can multiply `int` parameters together.
 
 <!-- snippet: multiply-example -->
 <a id='c5800a3d'></a>
@@ -73,7 +72,7 @@ Console.WriteLine(result);
 
 ### Divide
 
-We can add two `divide` parameters together.
+We can divide an `int` numerator against an `int` denominator.
 
 <!-- snippet: divide-example -->
 <a id='b3ea92cb'></a>
@@ -84,3 +83,4 @@ Console.WriteLine(result);
 ```
 <sup><a href='/Program.cs#L28-L32' title='Snippet source file'>snippet source</a> | <a href='#b3ea92cb' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
+
