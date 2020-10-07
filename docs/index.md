@@ -16,7 +16,7 @@ public interface ICalculator
     int Divide(int x, int y);
 }
 ```
-<sup><a href='Program.cs#L43-L51' title='Snippet source file'>snippet source</a> | <a href='#8d733fd1' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/Program.cs#L34-L42' title='Snippet source file'>snippet source</a> | <a href='#8d733fd1' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 We can new up a new calculator using the following code.
@@ -26,7 +26,7 @@ We can new up a new calculator using the following code.
 ```cs
 var calculator = new Calculator();
 ```
-<sup><a href='Program.cs#L9-L11' title='Snippet source file'>snippet source</a> | <a href='#d0e24c7f' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/Program.cs#L3-L5' title='Snippet source file'>snippet source</a> | <a href='#d0e24c7f' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 ### Add 
@@ -40,7 +40,7 @@ result = calculator.Add(1, 1);
 // result is 2
 Console.WriteLine(result);
 ```
-<sup><a href='Program.cs#L15-L19' title='Snippet source file'>snippet source</a> | <a href='#60d9c190' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/Program.cs#L9-L13' title='Snippet source file'>snippet source</a> | <a href='#60d9c190' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 ### Minus
@@ -54,7 +54,7 @@ result = calculator.Minus(1, 1);
 // result is 0
 Console.WriteLine(result);
 ```
-<sup><a href='Program.cs#L21-L25' title='Snippet source file'>snippet source</a> | <a href='#9671badb' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/Program.cs#L15-L19' title='Snippet source file'>snippet source</a> | <a href='#9671badb' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 ### Multiply
@@ -68,7 +68,7 @@ result = calculator.Multiply(2, 2);
 // result is 4
 Console.WriteLine(result);
 ```
-<sup><a href='Program.cs#L27-L31' title='Snippet source file'>snippet source</a> | <a href='#c5800a3d' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/Program.cs#L21-L25' title='Snippet source file'>snippet source</a> | <a href='#c5800a3d' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 ### Divide
@@ -82,5 +82,5 @@ result = calculator.Divide(4, 2);
 // result is 2
 Console.WriteLine(result);
 ```
-<sup><a href='Program.cs#L34-L38' title='Snippet source file'>snippet source</a> | <a href='#b3ea92cb' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/Program.cs#L28-L32' title='Snippet source file'>snippet source</a> | <a href='#b3ea92cb' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
